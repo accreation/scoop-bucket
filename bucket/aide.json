@@ -1,16 +1,16 @@
 {
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "The package.json for your AI development environment",
   "homepage": "https://github.com/accreation/aide",
   "license": "AGPL-3.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/accreation/aide/releases/download/v0.5.0/aide-windows-amd64.exe.zip",
-      "hash": "sha256:15156c4721ca52a178e48b4321c1be0662532e0c3cd5a1a6ac5edc827b6dda13"
+      "url": "https://github.com/accreation/aide/releases/download/v0.6.0/aide-windows-amd64.exe.zip",
+      "hash": "sha256:8c93331b0e35bcedc7d273cb1dccb630c37dfe8647d697127c77cfa637ce3b45"
     },
     "arm64": {
-      "url": "https://github.com/accreation/aide/releases/download/v0.5.0/aide-windows-arm64.exe.zip",
-      "hash": "sha256:92bdf943341a2b4c2a0ce630ece90d12f644f81fa435286cd06908167e5cf0bf"
+      "url": "https://github.com/accreation/aide/releases/download/v0.6.0/aide-windows-arm64.exe.zip",
+      "hash": "sha256:2a02f9565df9c9d6e22738e7b8b5f8c881dd85de977a80a1c48aaf395ad6d27e"
     }
   },
   "bin": [
